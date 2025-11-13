@@ -1,0 +1,8 @@
+{
+  "type": "SEARCH",
+  "keyword": "cuocdoivandepsao",
+  "region": "VN",
+  "maxItems": 50,
+  "isUnlimited": false,
+  "outputPath": "data/output.json"
+}
