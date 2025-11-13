@@ -1,0 +1,118 @@
+[
+  {
+    "aweme_id": "7229167805625847041",
+    "region": "VN",
+    "desc": "Cô chủ trọ cho thuê căn phòng hết nước chấm thật #Cuocdoivandepsao",
+    "author": {
+      "uid": "6812490744957256705",
+      "unique_id": "vtvgiaitriofficial",
+      "nickname": "VTV Giai Tri Official",
+      "signature": "Mời các bạn tải ứng dụng VTV GiảiTrí để xem trọn bộ phim hay độc quyền",
+      "avatar_medium": {
+        "uri": "tos-alisg-avt-0068/e58bf19abf1c1badb25233ebb772283d",
+        "url_list": [
+          "https://p16-sign-sg.tiktokcdn.com/aweme/720x720/tos-alisg-avt-0068/e58bf19abf1c1badb25233ebb772283d.webp",
+          "https://p16-sign-sg.tiktokcdn.com/aweme/720x720/tos-alisg-avt-0068/e58bf19abf1c1badb25233ebb772283d.jpeg"
+        ]
+      },
+      "youtube_channel_id": "UCuJ5k3GndbHnXLYyiIR6Z8Q",
+      "youtube_channel_title": "VTV Giải Trí Official"
+    },
+    "added_sound_music_info": {
+      "author": "VTV Giai Tri Official",
+      "title": "original sound - vtvgiaitriofficial",
+      "audition_duration": 54,
+      "video_duration": 54
+    },
+    "music": {
+      "id": "music123",
+      "title": "original sound - vtvgiaitriofficial",
+      "author": "VTV Giai Tri Official"
+    },
+    "cha_list": [
+      {
+        "cha_name": "cuocdoivandepsao",
+        "cid": "1670903934915585",
+        "view_count": 0
+      }
+    ],
+    "statistics": {
+      "play_count": 585709,
+      "digg_count": 25006,
+      "comment_count": 183,
+      "share_count": 492,
+      "collect_count": 743
+    },
+    "share_info": {
+      "share_title": "Check out VTV Giai Tri Official’s video! #TikTok > ",
+      "share_desc": "Check out VTV Giai Tri Official's video! #TikTok",
+      "share_url": "https://www.tiktok.com/@vtvgiaitriofficial/video/7229167805625847041"
+    },
+    "video": {
+      "duration": 54,
+      "bit_rate": [
+        {
+          "gear_name": "adapt_540_1",
+          "bit_rate": 720348,
+          "play_addr": {
+            "uri": "v10025g50000ch9ik0jc77ub16qqnnjg",
+            "width": 576,
+            "height": 1024,
+            "url_list": [
+              "https://v19.tiktokcdn-us.com/422f47cb49d0e1ec92bc607815c11cfb/video/tos/alisg/tos-alisg-pve-0037/oQRhWKrsICLBo5KA3TBzNAnKUBAfQsZwEpxyEb/",
+              "https://v16m.tiktokcdn-us.com/ea4a3ce313ed5bc55ba0850bad2aa0af/video/tos/alisg/tos-alisg-pve-0037/oQRhWKrsICLBo5KA3TBzNAnKUBAfQsZwEpxyEb/"
+            ]
+          }
+        }
+      ]
+    },
+    "text_extra": [
+      {
+        "type": 1,
+        "hashtag_name": "cuocdoivandepsao",
+        "hashtag_id": "1670903934915585",
+        "start": 49,
+        "end": 66
+      }
+    ],
+    "create_time": 1683171893
+  },
+  {
+    "aweme_id": "8000000000000000001",
+    "region": "US",
+    "desc": "Sample US video about testing #unittest",
+    "author": {
+      "uid": "1000000000000000001",
+      "unique_id": "sampleuser",
+      "nickname": "Sample User"
+    },
+    "music": {
+      "id": "music123",
+      "title": "Sample Track",
+      "author": "Sample Artist"
+    },
+    "statistics": {
+      "play_count": 1000,
+      "digg_count": 100,
+      "comment_count": 10,
+      "share_count": 5,
+      "collect_count": 20
+    },
+    "share_info": {
+      "share_url": "https://www.tiktok.com/@sampleuser/video/8000000000000000001"
+    },
+    "video": {
+      "duration": 30
+    },
+    "text_extra": [
+      {
+        "type": 1,
+        "hashtag_name": "unittest",
+        "hashtag_id": "1",
+        "start": 10,
+        "end": 19
+      }
+    ],
+    "create_time": 1700000000
+  }
+]
